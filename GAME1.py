@@ -43,5 +43,6 @@ elif b>a:
     print("Computer is match winner.\n")
 else:
     print("Match Draw.\n")
+print("Thanks.\n")
 print("Is this helpful?\n")
 input()
